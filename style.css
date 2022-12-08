@@ -1,0 +1,35 @@
+.main_div
+{
+    background-color:cadetblue;
+    height: 700px;
+}
+
+.header_div
+{
+    background-color: white;
+}
+
+.copy_right_footer
+{
+   font-family: cursive;
+}
+
+.hearing_image
+{
+    height: 200px;
+}
+
+h2
+{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p
+{
+    font-style: italic;
+}
+
+h4
+{
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
